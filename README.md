@@ -1,1 +1,1 @@
-# events
+## Events Go Library
